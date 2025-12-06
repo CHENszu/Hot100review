@@ -1,1 +1,5 @@
-
+sphinx-rtd-theme>=1.0
+nbsphinx
+sphinx-gallery>=0.15.0
+ipython>=8.37.0
+ipykernel>=6.29.5
