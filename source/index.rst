@@ -15,7 +15,7 @@ documentation for details.
    :maxdepth: 2
    
    Setup of the FlatST environment
-   Tutorial 1 LCEL
+   1 LCEL
    Tutorial 2 MERFISH
    Tutorial 3 Denoising
    Tutorial 4 2D
