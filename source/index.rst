@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Hot100
+Hot100review
 ====================
 
 Add your content using ``reStructuredText`` syntax. See the
