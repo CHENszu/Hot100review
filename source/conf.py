@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh'
+project = 'Repetition is the mother of memory'
 copyright = '2025, chenxdszu'
 author = 'chenxdszu'
 release = '1.0.1'
