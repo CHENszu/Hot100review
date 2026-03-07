@@ -1,0 +1,11 @@
+<!-- vercount访问量统计脚本 -->
+<script defer src="https://cn.vercount.one/js"></script>
+
+{{- if ne .Type "post" -}}
+<style>
+    /* 非文章页直接通过CSS隐藏，零延迟 */
+    #viewCount {
+        display: none !important;
+    }
+</style>
+{{- end -}}
